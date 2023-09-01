@@ -1,0 +1,14 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "**SEM** GRILO"
+  text: "Rapido e Prático ,ganhe **TEMPO**, com nossa ferramente que entrega certidões XXX e muito mais ,Tudo isso via **TELEGRAM** ou Diretamente no seu **E-mail**  de forma rápida "
+  buttonPrimary:
+    label: "Experimente"
+    url: "#"
+
+  <!--buttonSecondary:
+    label: ""
+    url: ""
+

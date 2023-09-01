@@ -1,0 +1,10 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Entenda Melhor como funciona :"
+  text: "Nosso Bot faz todo o trabalho para Você ,ao Selecionar as **certidões** que precisa ,precisamos de poucos minutos para automatizar e enviar da forma que você escolher"
+  image: "images/services-web-development.png"
+  button:
+    label: "Let's talk"
+    url: "#"
